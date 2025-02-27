@@ -1,5 +1,7 @@
 # Anubis2 Theme for Hugo [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/750dfb45-73dc-4a96-8920-e701e0196959/deploy-status)](https://app.netlify.com/sites/hugo-theme-anubis2/deploys)
 
+## This fork removed the ping back to some whatever Chinese Police website I found in the footer code. I also remove the Umami Analytics code since I do not care about stats.
+
 Anubis2 is another simple minimalist theme for [Hugo blog engine](https://gohugo.io/), check our [Demo](https://www.junyi.dev/).
 
 ![image](https://github.com/Junyi-99/hugo-theme-anubis2/assets/14367694/8d9a591b-e168-4328-a770-eb2e8f04f657)
